@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528760042 source:c:\users\osmar\documents\algoritmos\usardll\minhadll\main.cpp
+	"main.h"
+
+1528759779 c:\users\osmar\documents\algoritmos\usardll\minhadll\main.h
+	<windows.h>
+	<iostream>
+
